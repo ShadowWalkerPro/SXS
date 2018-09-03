@@ -1,1 +1,1 @@
-"# SXS" 
+"# SXS - Student Universal System" 
